@@ -1,0 +1,181 @@
+
+/*  ****    Light 300   **** */
+
+/* Neo Sans Pro */
+/* Light 300 */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Light.eot');
+    src: url('neosans/subset-NeoSansPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Light.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Light.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Light 300 Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-LightItalic.eot');
+    src: url('neosans/subset-NeoSansPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-LightItalic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-LightItalic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+/*  ****    Regular 400   **** */
+
+/* Neo Sans Pro */
+/* Regular */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Regular.eot');
+    src: url('neosans/subset-NeoSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Regular.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Regular.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Regular Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Italic.eot');
+    src: url('neosans/subset-NeoSansPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Italic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Italic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+/*  ****    Medium 500   **** */
+
+/* Neo Sans Pro */
+/* Medium 500 */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Medium.eot');
+    src: url('neosans/subset-NeoSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Medium.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Medium.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Medium 500 Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-MediumItalic.eot');
+    src: url('neosans/subset-NeoSansPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-MediumItalic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-MediumItalic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/*  ****    Bold   **** */
+
+/* Neo Sans Pro */
+/* Bold */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Bold.eot');
+    src: url('neosans/subset-NeoSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Bold.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Bold.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Bold Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-BoldItalic.eot');
+    src: url('neosans/subset-NeoSansPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-BoldItalic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-BoldItalic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+/*  ****    Black 900   **** */
+
+/* Neo Sans Pro */
+/* Black 900 */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Black.eot');
+    src: url('neosans/subset-NeoSansPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Black.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Black.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Black 900 Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-BlackItalic.eot');
+    src: url('neosans/subset-NeoSansPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-BlackItalic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-BlackItalic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/*  ****    Ultra   **** */
+
+/* Neo Sans Pro */
+/* Ultra */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-Ultra.eot');
+    src: url('neosans/subset-NeoSansPro-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-Ultra.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-Ultra.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Neo Sans Pro */
+/* Ultra Italic */
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('neosans/subset-NeoSansPro-UltraItalic.eot');
+    src: url('neosans/subset-NeoSansPro-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('neosans/subset-NeoSansPro-UltraItalic.woff2') format('woff2'),
+        url('neosans/subset-NeoSansPro-UltraItalic.woff') format('woff'),
+        url('neosans/subset-NeoSansPro-UltraItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
