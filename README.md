@@ -2,5 +2,5 @@
  Hosted Fonts
 
 ## Neo Sans
-[index.html](/fonts/neo-sans/index.html)
-[demo.html](/fonts/neo-sans/demo.html)
+[index.html](https://suiramus.github.io/myfonts/fonts/neo-sans/index.html)
+[demo.html](https://suiramus.github.io/myfonts/fonts/neo-sans/demo.html)
