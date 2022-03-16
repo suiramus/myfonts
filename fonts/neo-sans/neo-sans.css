@@ -154,7 +154,7 @@
 
 /* Neo Sans Pro */
 /* Ultra */
-@font-face {
+/*@font-face {
     font-family: 'Neo Sans Pro';
     src: url('neosans/subset-NeoSansPro-Ultra.eot');
     src: url('neosans/subset-NeoSansPro-Ultra.eot?#iefix') format('embedded-opentype'),
@@ -164,11 +164,11 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+}*/
 
 /* Neo Sans Pro */
 /* Ultra Italic */
-@font-face {
+/*@font-face {
     font-family: 'Neo Sans Pro';
     src: url('neosans/subset-NeoSansPro-UltraItalic.eot');
     src: url('neosans/subset-NeoSansPro-UltraItalic.eot?#iefix') format('embedded-opentype'),
@@ -178,4 +178,4 @@
     font-weight: normal;
     font-style: italic;
     font-display: swap;
-}
+}*/
